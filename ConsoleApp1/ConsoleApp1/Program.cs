@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hej Mikkel, KAN DU FINDE UD AF DET HER PIS!!?!=!=!=!=!!asdasdasdsaddsadasads");
             Console.WriteLine("Hej test 2");
+            Console.WriteLine("ja");
         }
     }
 }
