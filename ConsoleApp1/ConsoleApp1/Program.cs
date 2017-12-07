@@ -15,6 +15,9 @@ namespace ConsoleApp1
             Console.WriteLine("ja");
 
             Console.WriteLine("hej");
+            Console.WriteLine("NY CW OG CR");
+
+            Console.ReadKey(); 
         }
     }
 }
